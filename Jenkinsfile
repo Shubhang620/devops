@@ -4,6 +4,7 @@ agent any
     stage("build"){
       steps{
       echo "buid now"
+        echo" GURU"
       }
     }
     stage("test"){
